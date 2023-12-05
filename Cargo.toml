@@ -8,3 +8,4 @@ members = [
 authors = ["André Vaccari"]
 
 [workspace.dependencies]
+regex = "1.10.2"
