@@ -1,0 +1,10 @@
+[workspace]
+resolver = "2"
+members = [
+    "days/*"
+]
+    
+[workspace.package]
+authors = ["André Vaccari"]
+
+[workspace.dependencies]
